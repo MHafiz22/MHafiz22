@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Capstone Project Dicoding**
 
-- 🌱 I’m currently learning **Frameworks for Front-End Web Development**
+- 🌱 I’m currently learning **Frameworks for Front-End Web Development** and **Figma**
 
 - 📫 How to reach me **hafizkedua@gmail.com**
 
