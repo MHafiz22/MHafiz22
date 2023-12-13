@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hafiz</h1>
-<img align="center" alt="web-developer" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRikRXhrrg_lGPdF9D6Rop8wBBi5DLhsKah8X96ux8XHIRO_3pv8fgG4QAbjd4SlDUQ5_c&usqp=CAU"/>
+<img align="center" alt="web-developer" width="100%" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif"/>
 <h3 align="justify">I am a web developer with a passion for learning and innovation. I have a strong understanding of HTML, CSS, and JavaScript, and I have experience with several popular frameworks. I am always looking for new ways to improve my skills and knowledge, and I am always eager to take on new challenges.</h3>
 
 - 🔭 I’m currently working on **Capstone Project Dicoding**
